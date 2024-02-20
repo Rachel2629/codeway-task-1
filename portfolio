@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #home{
+                background-color: black;
+                height: 90vh;
+                color: white;
+            }
+            h1{
+                margin-left: 20px;
+            }
+            #i1{
+                margin-left: 20px;
+                margin-top: 20px;
+                height:50vh;
+            }
+            #me{
+                background-color: black;
+                color: white;
+                position: absolute;
+                left: 200px;
+            }
+            #about{
+                background-color: black;
+                margin-top: 10px;
+                height: 110vh;
+            }
+            label{
+                font-size: 15px;
+            }
+            #contact{
+                margin-top: 10px;
+                background-color: black;
+                height: 100vh;
+                color: white;
+            }
+            #cont{
+                margin-left: 200px;
+            }
+            #copy{
+                height: 10px;
+                width: 10px;
+                position: relative;
+                bottom: 6px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="home">
+            <h1>Hi!</h1>
+            <h1>I am Kusuma Rachel Sharon...</h1>
+            <img id="i1" src="https://th.bing.com/th/id/OIP.4ldYFzvtlMc6qv-6N1Iy9wHaJE?w=148&h=181&c=7&r=0&o=5&dpr=1.9&pid=1.7">
+        </div>
+        <div id="about">
+            <div id="me">
+                <h4><u>About me</u></h4>
+                <label>Name :Kusuma Rachel Sharon </label><br>
+                <label>Age : 20</label><br>
+                <label>DOB : 03/8/2003</label><br>
+                <label>Designation : Student</label><br>
+                <label>Phone.No : 7993362096</label><br>
+                <label>Linkedin : <a href="www.linkedin.com/in/k-rachel-sharon-26047b2b3">www.linkedin.com/in/k-rachel-sharon-26047b2b3</label></a><br>
+                <h4><u>SKILLS</u></h4>
+                <li>HTML/CSS</li>
+                <li>Python</li>
+                <li>SQL</li>
+                <li>Basic Javascipt</li>
+                <h4><u>Experience</u></h4>
+                <li>I have an internship under ACADEMOR as a front end web developer. I have done weather application as a mini project. I am looking forward to gain more experience in this field</li>
+            </div>
+        </div>
+                <div id="contact">
+                    <div id="cont">
+                    <h4><u>contact me</u></h4>
+                    <li>Name :Kusuma Rachel Sharon</li>
+                    <li>phone-no :7993362096</li>
+                    <li>gmail :rachelkusuma2003@gmail.com</li>
+                    <li>Linkedin :<a href="www.linkedin.com/in/k-rachel-sharon-26047b2b3">www.linkedin.com/in/k-rachel-sharon-26047b2b3</label></a><br></li>
+                    <h4><u>Download</u></h4>
+                    <p>Download<a href="https://jmp.sh/FqPXgQic"> my resume</a></p>
+                    <p>Copyright<img id="copy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Red_copyright.svg/394px-Red_copyright.svg.png?20081001132737">All copyrights register to Kusuma Rachel Sharon</p>
+            </div>
+        </div>
+            
+        </div>
+    </body>
+</html
